@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(212, 212, 151);
+    font-size: 32px;
+    text-align: justify;
+}
+
+img.Primeraimg {
+    width: 257px;
+    height: 321px;
+    float: left;
+    margin-right: 10px;
+}
+
+h2 {
+    background-color: rgb(88, 88, 0);
+    color: white;
+    font-size: 40px;
+}
+
+img.Segundaimg {
+    width: 297px;
+    height: 320px;
+}
+
+p.centro {
+    text-align: center;
+}
+
+img.Terceraimg {
+    width: 326px;
+    height: 320px;
+    float: right;
+    margin-left: 10px;
+}
+
+em {
+    font-size: 25px;
+}
+
+h1 {
+    text-align: right;
+    letter-spacing: 50px;
+    color: darkblue
+}
